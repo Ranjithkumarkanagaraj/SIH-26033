@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:22.11.26
+## Reference Number:26017811
+## Name:Ranjithkumar K
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,36 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+1. Built a market place that connects farmers and consumers directly  
+2. Also built a Website and App for online buyers to improve sales of farmers 
+3. This helps farmers to make good profit for their hard work and also helps consumers to buy vegetables and fruits in affordable price.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+1. Use programming languages like python,Java script to built the app.
+
+2. ![alt text](<Digital market.png>)
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+1. Farmers can easily register on the website and mobile application to connect with consumers directly.
+2. Consumers can search and order fresh fruits and vegetables online.
+3. Online payment and delivery services makes the system practical.
+4. The project can start in a small area and expand to all locations.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+1. Farmers can sell their products directly and earn better profits.
+2. Consumers can purchase fresh fruits and vegetables at affordable prices.
+3. Reduces Middlemen and supports farmer's income.
+4. Connects Farmers and consumers through digital technology.
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. National Agriculture Market (e-NAM) – https://enam.gov.in/
+2. Ministry of Agriculture and Farmers Welfare – https://agriwelfare.gov.in/
+3. Food and Agriculture Organization (FAO) – https://www.fao.org/
+4. Research on digital agricultural marketplaces and online farming platforms.
+5. Research on direct marketing of agricultural products.
